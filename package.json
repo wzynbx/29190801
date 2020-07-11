@@ -1,0 +1,24 @@
+{
+  "name": "20190801",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzynbx/29190801.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzynbx/29190801/issues"
+  },
+  "homepage": "https://github.com/wzynbx/29190801#readme",
+  "dependencies": {
+    "lodash": "^4.17.19",
+    "underscore": "^1.10.2"
+  }
+}
