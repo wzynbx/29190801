@@ -19,6 +19,6 @@
   "homepage": "https://github.com/wzynbx/29190801#readme",
   "dependencies": {
     "lodash": "^4.17.19",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
